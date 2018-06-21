@@ -1,2 +1,2 @@
-# Pledge Token
-Pledge (CSR) Smart Contract
+# Pledge (CSR) Token
+Pledge Smart Contract
