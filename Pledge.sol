@@ -5,13 +5,10 @@ pragma solidity ^0.4.24;
 //
 // Deployed to : 0x759233dd71FCd6c9fF4078B65C240062eEbCE75b
 // Symbol      : CSR
-// Name        : Pledge Token
+// Name        : Pledge 
 // Total supply: 1500000000
 // Decimals    : 4
 //
-// Enjoy.
-//
-// (c) by Moritz Neto with BokkyPooBah / Bok Consulting Pty Ltd Au 2017. The MIT Licence.
 // ----------------------------------------------------------------------------
 
 
